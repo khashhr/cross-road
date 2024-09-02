@@ -57,7 +57,7 @@ button {
 #controlls button:first-of-type {
   grid-column: 1/-1;
 }
-#Player{
+#player{
   position: absolute;
   bottom: 80px;
   right: 50px;
